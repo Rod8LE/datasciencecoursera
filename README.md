@@ -13,4 +13,6 @@ The code should:
 
 VERY IMPORTANT - the file downloaded is a zip file that should be extracted MANUALLY after download
 
-the code returns and writes a .txt file with the "tidy data" on the working directory
+the run_analysis.R returns and writes a .txt file with the "tidy data" on the working directory (if files extracted correctly)
+
+codebook explains (requires the user to run code) key items for understanding the the project
